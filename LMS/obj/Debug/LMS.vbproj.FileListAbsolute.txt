@@ -1,0 +1,11 @@
+E:\VS_Project\LMS\LMS\bin\Debug\LMS.exe.config
+E:\VS_Project\LMS\LMS\bin\Debug\LMS.exe
+E:\VS_Project\LMS\LMS\bin\Debug\LMS.pdb
+E:\VS_Project\LMS\LMS\bin\Debug\LMS.xml
+E:\VS_Project\LMS\LMS\obj\Debug\LMS.vbprojResolveAssemblyReference.cache
+E:\VS_Project\LMS\LMS\obj\Debug\LMS.Form0.resources
+E:\VS_Project\LMS\LMS\obj\Debug\LMS.Resources.resources
+E:\VS_Project\LMS\LMS\obj\Debug\LMS.vbproj.GenerateResource.Cache
+E:\VS_Project\LMS\LMS\obj\Debug\LMS.exe
+E:\VS_Project\LMS\LMS\obj\Debug\LMS.xml
+E:\VS_Project\LMS\LMS\obj\Debug\LMS.pdb
